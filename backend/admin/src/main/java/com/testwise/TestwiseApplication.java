@@ -10,12 +10,10 @@ import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
  * @author
  */
 @SpringBootApplication(exclude = { DataSourceAutoConfiguration.class })
-public class EducationApplication
+public class TestwiseApplication
 {
     public static void main(String[] args)
     {
-        SpringApplication.run(EducationApplication.class, args);
+        SpringApplication.run(TestwiseApplication.class, args);
     }
 }
-
-

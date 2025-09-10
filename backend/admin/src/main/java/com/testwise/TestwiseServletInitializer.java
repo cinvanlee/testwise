@@ -8,11 +8,11 @@ import org.springframework.boot.web.servlet.support.SpringBootServletInitializer
  * 
  * @author
  */
-public class EducationServletInitializer extends SpringBootServletInitializer
+public class TestwiseServletInitializer extends SpringBootServletInitializer
 {
     @Override
     protected SpringApplicationBuilder configure(SpringApplicationBuilder application)
     {
-        return application.sources(EducationApplication.class);
+        return application.sources(TestwiseApplication.class);
     }
 }
