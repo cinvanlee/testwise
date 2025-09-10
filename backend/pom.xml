@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0"
-         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	
-    <groupId>com.astar</groupId>
-    <artifactId>astar</artifactId>
+    <groupId>com.testwise</groupId>
+    <artifactId>testwise</artifactId>
     <version>3.8.7</version>
 
-    <name>astar</name>
-    <url>https://gitee.com/wy521a</url>
+    <name>testwise</name>
     <description>易测私考系统</description>
     
     <properties>
-        <astar.version>3.8.7</astar.version>
+        <testwise.version>3.8.7</testwise.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
@@ -130,37 +129,37 @@
 
             <!-- 定时任务-->
             <dependency>
-                <groupId>com.astar</groupId>
-                <artifactId>astar-quartz</artifactId>
-                <version>${astar.version}</version>
+                <groupId>com.testwise</groupId>
+                <artifactId>quartz</artifactId>
+                <version>${testwise.version}</version>
             </dependency>
 
             <!-- 代码生成-->
             <dependency>
-                <groupId>com.astar</groupId>
-                <artifactId>astar-generator</artifactId>
-                <version>${astar.version}</version>
+                <groupId>com.testwise</groupId>
+                <artifactId>generator</artifactId>
+                <version>${testwise.version}</version>
             </dependency>
 
             <!-- 核心模块-->
             <dependency>
-                <groupId>com.astar</groupId>
-                <artifactId>astar-framework</artifactId>
-                <version>${astar.version}</version>
+                <groupId>com.testwise</groupId>
+                <artifactId>framework</artifactId>
+                <version>${testwise.version}</version>
             </dependency>
 
             <!-- 系统模块-->
             <dependency>
-                <groupId>com.astar</groupId>
-                <artifactId>astar-system</artifactId>
-                <version>${astar.version}</version>
+                <groupId>com.testwise</groupId>
+                <artifactId>system</artifactId>
+                <version>${testwise.version}</version>
             </dependency>
 
             <!-- 通用工具-->
             <dependency>
-                <groupId>com.astar</groupId>
-                <artifactId>astar-common</artifactId>
-                <version>${astar.version}</version>
+                <groupId>com.testwise</groupId>
+                <artifactId>common</artifactId>
+                <version>${testwise.version}</version>
             </dependency>
 
             <dependency>
@@ -173,13 +172,13 @@
     </dependencyManagement>
 
     <modules>
-        <module>astar-admin</module>
-        <module>astar-framework</module>
-        <module>astar-system</module>
-        <module>astar-quartz</module>
-        <module>astar-generator</module>
-        <module>astar-common</module>
-        <module>astar-education</module>
+        <module>admin</module>
+        <module>framework</module>
+        <module>system</module>
+        <module>quartz</module>
+        <module>generator</module>
+        <module>common</module>
+        <module>education</module>
     </modules>
     <packaging>pom</packaging>
 
