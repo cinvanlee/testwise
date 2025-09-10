@@ -24,7 +24,7 @@ import com.astar.system.service.ISysMenuService;
 /**
  * 菜单信息
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/menu")

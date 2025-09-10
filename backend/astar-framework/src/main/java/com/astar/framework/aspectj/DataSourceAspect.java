@@ -18,7 +18,7 @@ import com.astar.framework.datasource.DynamicDataSourceContextHolder;
 /**
  * 多数据源处理
  * 
- * @author astar
+ * @author
  */
 @Aspect
 @Order(1)

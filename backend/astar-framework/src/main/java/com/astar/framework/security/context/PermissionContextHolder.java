@@ -7,7 +7,7 @@ import com.astar.common.core.text.Convert;
 /**
  * 权限信息
  * 
- * @author astar
+ * @author
  */
 public class PermissionContextHolder
 {

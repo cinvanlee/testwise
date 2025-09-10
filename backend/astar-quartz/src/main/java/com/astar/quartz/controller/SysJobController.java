@@ -30,7 +30,7 @@ import com.astar.quartz.util.ScheduleUtils;
 /**
  * 调度任务信息操作处理
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/monitor/job")

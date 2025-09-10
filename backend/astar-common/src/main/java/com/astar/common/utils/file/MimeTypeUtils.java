@@ -3,7 +3,7 @@ package com.astar.common.utils.file;
 /**
  * 媒体类型工具类
  * 
- * @author astar
+ * @author
  */
 public class MimeTypeUtils
 {

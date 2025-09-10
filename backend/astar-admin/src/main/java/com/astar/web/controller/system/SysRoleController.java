@@ -34,7 +34,7 @@ import com.astar.system.service.ISysUserService;
 /**
  * 角色信息
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/role")

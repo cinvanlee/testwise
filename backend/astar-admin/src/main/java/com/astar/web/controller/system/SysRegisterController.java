@@ -14,7 +14,7 @@ import com.astar.system.service.ISysConfigService;
 /**
  * 注册验证
  * 
- * @author astar
+ * @author
  */
 @RestController
 public class SysRegisterController extends BaseController

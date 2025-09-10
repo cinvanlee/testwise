@@ -11,7 +11,7 @@ import com.astar.quartz.domain.SysJob;
 /**
  * 任务执行工具
  *
- * @author astar
+ * @author
  */
 public class JobInvokeUtil
 {

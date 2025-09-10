@@ -27,7 +27,7 @@ import com.astar.framework.datasource.DynamicDataSource;
 /**
  * druid 配置多数据源
  * 
- * @author astar
+ * @author
  */
 @Configuration
 public class DruidConfig

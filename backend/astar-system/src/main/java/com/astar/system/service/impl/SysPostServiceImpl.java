@@ -14,7 +14,7 @@ import com.astar.system.service.ISysPostService;
 /**
  * 岗位信息 服务层处理
  * 
- * @author astar
+ * @author
  */
 @Service
 public class SysPostServiceImpl implements ISysPostService

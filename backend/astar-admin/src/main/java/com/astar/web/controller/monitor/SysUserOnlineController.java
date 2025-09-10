@@ -26,7 +26,7 @@ import com.astar.system.service.ISysUserOnlineService;
 /**
  * 在线用户监控
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/monitor/online")

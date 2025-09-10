@@ -11,7 +11,7 @@ import com.astar.common.enums.LimitType;
 /**
  * 限流注解
  * 
- * @author astar
+ * @author
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

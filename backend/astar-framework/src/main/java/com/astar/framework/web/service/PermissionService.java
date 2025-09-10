@@ -13,7 +13,7 @@ import com.astar.framework.security.context.PermissionContextHolder;
 /**
  * Astar首创 自定义权限实现，ss取自SpringSecurity首字母
  * 
- * @author astar
+ * @author
  */
 @Service("ss")
 public class PermissionService

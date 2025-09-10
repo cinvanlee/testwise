@@ -3,7 +3,7 @@ package com.astar.common.constant;
 /**
  * 用户常量信息
  * 
- * @author astar
+ * @author
  */
 public class UserConstants
 {

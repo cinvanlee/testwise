@@ -33,7 +33,7 @@ import com.astar.system.service.ISysUserService;
 /**
  * 登录校验方法
  * 
- * @author astar
+ * @author
  */
 @Component
 public class SysLoginService

@@ -3,7 +3,7 @@ package com.astar.common.exception.user;
 /**
  * 黑名单IP异常类
  * 
- * @author astar
+ * @author
  */
 public class BlackListException extends UserException
 {

@@ -21,7 +21,7 @@ import com.astar.common.annotation.Anonymous;
 /**
  * 设置Anonymous注解允许匿名访问的url
  * 
- * @author astar
+ * @author
  */
 @Configuration
 public class PermitAllUrlProperties implements InitializingBean, ApplicationContextAware

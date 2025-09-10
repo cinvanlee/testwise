@@ -3,7 +3,7 @@ package com.astar.common.enums;
 /**
  * 操作人类别
  * 
- * @author astar
+ * @author
  */
 public enum OperatorType
 {

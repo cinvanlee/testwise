@@ -6,7 +6,7 @@ import com.astar.common.utils.ServletUtils;
 /**
  * 表格数据处理
  * 
- * @author astar
+ * @author
  */
 public class TableSupport
 {

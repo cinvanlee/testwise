@@ -7,7 +7,7 @@ import com.astar.common.core.domain.entity.SysDictData;
 /**
  * 字典表 数据层
  * 
- * @author astar
+ * @author
  */
 public interface SysDictDataMapper
 {

@@ -11,7 +11,7 @@ import com.astar.common.annotation.Excel;
 /**
  * 学科管理对象 tb_discipline
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @Data

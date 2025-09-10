@@ -17,7 +17,7 @@ import com.astar.common.core.domain.BaseEntity;
 /**
  * 题库管理对象 tb_questions_bank
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @Data

@@ -33,7 +33,7 @@ import java.util.Optional;
 /**
  * 学科管理Controller
  *
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @RestController

@@ -21,7 +21,7 @@ import com.astar.system.service.ISysUserService;
 /**
  * 注册校验方法
  * 
- * @author astar
+ * @author
  */
 @Component
 public class SysRegisterService

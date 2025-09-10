@@ -5,7 +5,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 路由显示信息
  * 
- * @author astar
+ * @author
  */
 public class MetaVo
 {

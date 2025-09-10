@@ -18,7 +18,7 @@ import com.astar.common.utils.uuid.Seq;
 /**
  * 文件上传工具类
  *
- * @author astar
+ * @author
  */
 public class FileUploadUtils
 {

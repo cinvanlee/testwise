@@ -12,7 +12,7 @@ import com.astar.common.core.domain.BaseEntity;
 /**
  * 岗位表 sys_post
  * 
- * @author astar
+ * @author
  */
 public class SysPost extends BaseEntity
 {

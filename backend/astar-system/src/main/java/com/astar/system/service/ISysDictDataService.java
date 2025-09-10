@@ -6,7 +6,7 @@ import com.astar.common.core.domain.entity.SysDictData;
 /**
  * 字典 业务层
  * 
- * @author astar
+ * @author
  */
 public interface ISysDictDataService
 {

@@ -23,7 +23,7 @@ import com.astar.system.service.ISysNoticeService;
 /**
  * 公告 信息操作处理
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/notice")

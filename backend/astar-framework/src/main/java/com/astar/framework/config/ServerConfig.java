@@ -7,7 +7,7 @@ import com.astar.common.utils.ServletUtils;
 /**
  * 服务相关配置
  * 
- * @author astar
+ * @author
  */
 @Component
 public class ServerConfig

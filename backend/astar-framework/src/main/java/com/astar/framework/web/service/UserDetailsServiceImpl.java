@@ -18,7 +18,7 @@ import com.astar.system.service.ISysUserService;
 /**
  * 用户验证处理
  *
- * @author astar
+ * @author
  */
 @Service
 public class UserDetailsServiceImpl implements UserDetailsService

@@ -12,7 +12,7 @@ import com.astar.common.utils.http.HttpUtils;
 /**
  * 获取地址类
  * 
- * @author astar
+ * @author
  */
 public class AddressUtils
 {

@@ -16,7 +16,7 @@ import com.astar.common.xss.Xss;
 /**
  * 用户对象 sys_user
  * 
- * @author astar
+ * @author
  */
 public class SysUser extends BaseEntity
 {

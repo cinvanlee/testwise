@@ -39,7 +39,7 @@ import com.astar.system.service.ISysUserService;
 /**
  * 用户信息
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/user")

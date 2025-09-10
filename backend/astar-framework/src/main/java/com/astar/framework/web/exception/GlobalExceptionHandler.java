@@ -20,7 +20,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 全局异常处理器
  * 
- * @author astar
+ * @author
  */
 @RestControllerAdvice
 public class GlobalExceptionHandler

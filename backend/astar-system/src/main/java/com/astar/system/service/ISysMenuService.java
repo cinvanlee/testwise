@@ -9,7 +9,7 @@ import com.astar.system.domain.vo.RouterVo;
 /**
  * 菜单 业务层
  * 
- * @author astar
+ * @author
  */
 public interface ISysMenuService
 {

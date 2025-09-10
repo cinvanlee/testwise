@@ -10,7 +10,7 @@ import com.astar.system.service.ISysNoticeService;
 /**
  * 公告 服务层实现
  * 
- * @author astar
+ * @author
  */
 @Service
 public class SysNoticeServiceImpl implements ISysNoticeService

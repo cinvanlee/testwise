@@ -8,7 +8,7 @@ import org.apache.ibatis.annotations.Mapper;
 /**
  * 学科管理Mapper接口
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @Mapper

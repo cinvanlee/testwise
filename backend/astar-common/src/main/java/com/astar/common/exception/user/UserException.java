@@ -5,7 +5,7 @@ import com.astar.common.exception.base.BaseException;
 /**
  * 用户信息异常类
  * 
- * @author astar
+ * @author
  */
 public class UserException extends BaseException
 {

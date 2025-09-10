@@ -7,7 +7,7 @@ import com.astar.generator.domain.GenTable;
 /**
  * 业务 服务层
  * 
- * @author astar
+ * @author
  */
 public interface IGenTableService
 {

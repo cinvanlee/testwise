@@ -6,7 +6,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 定时任务调度测试
  * 
- * @author astar
+ * @author
  */
 @Component("ryTask")
 public class RyTask

@@ -13,7 +13,7 @@ import com.astar.common.core.domain.BaseEntity;
 /**
  * 试卷题目试题管理对象 tb_examination_paper_questions
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @Data

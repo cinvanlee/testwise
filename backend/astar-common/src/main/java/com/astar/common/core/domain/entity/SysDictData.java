@@ -12,7 +12,7 @@ import com.astar.common.core.domain.BaseEntity;
 /**
  * 字典数据表 sys_dict_data
  * 
- * @author astar
+ * @author
  */
 public class SysDictData extends BaseEntity
 {

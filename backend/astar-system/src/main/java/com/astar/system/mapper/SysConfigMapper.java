@@ -6,7 +6,7 @@ import com.astar.system.domain.SysConfig;
 /**
  * 参数配置 数据层
  * 
- * @author astar
+ * @author
  */
 public interface SysConfigMapper
 {

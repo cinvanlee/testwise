@@ -39,7 +39,7 @@ import com.astar.generator.util.VelocityUtils;
 /**
  * 业务 服务层实现
  * 
- * @author astar
+ * @author
  */
 @Service
 public class GenTableServiceImpl implements IGenTableService

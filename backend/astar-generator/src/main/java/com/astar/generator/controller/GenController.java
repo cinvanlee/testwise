@@ -38,7 +38,7 @@ import com.astar.generator.service.IGenTableService;
 /**
  * 代码生成 操作处理
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/tool/gen")

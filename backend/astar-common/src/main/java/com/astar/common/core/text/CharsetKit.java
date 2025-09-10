@@ -7,7 +7,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 字符集工具类
  * 
- * @author astar
+ * @author
  */
 public class CharsetKit
 {

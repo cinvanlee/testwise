@@ -7,7 +7,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 学科管理Service接口
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 public interface ITbDisciplineService extends IService<Discipline> {

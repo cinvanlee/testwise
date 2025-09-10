@@ -6,7 +6,7 @@ import com.astar.system.domain.SysConfig;
 /**
  * 参数配置 服务层
  * 
- * @author astar
+ * @author
  */
 public interface ISysConfigService
 {

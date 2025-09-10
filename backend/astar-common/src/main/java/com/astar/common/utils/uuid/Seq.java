@@ -5,7 +5,7 @@ import com.astar.common.utils.DateUtils;
 import com.astar.common.utils.StringUtils;
 
 /**
- * @author astar 序列生成类
+ * @author 序列生成类
  */
 public class Seq
 {

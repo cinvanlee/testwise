@@ -6,7 +6,7 @@ import com.astar.common.core.domain.entity.SysDictType;
 /**
  * 字典表 数据层
  * 
- * @author astar
+ * @author
  */
 public interface SysDictTypeMapper
 {

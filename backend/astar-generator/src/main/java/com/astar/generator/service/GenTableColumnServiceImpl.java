@@ -10,7 +10,7 @@ import com.astar.generator.mapper.GenTableColumnMapper;
 /**
  * 业务字段 服务层实现
  * 
- * @author astar
+ * @author
  */
 @Service
 public class GenTableColumnServiceImpl implements IGenTableColumnService 

@@ -3,7 +3,7 @@ package com.astar.common.utils.sign;
 /**
  * Base64工具类
  * 
- * @author astar
+ * @author
  */
 public final class Base64
 {

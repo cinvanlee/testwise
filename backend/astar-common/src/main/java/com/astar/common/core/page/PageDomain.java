@@ -5,7 +5,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 分页数据
  * 
- * @author astar
+ * @author
  */
 public class PageDomain
 {

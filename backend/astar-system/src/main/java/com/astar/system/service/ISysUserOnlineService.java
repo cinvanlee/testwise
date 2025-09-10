@@ -6,7 +6,7 @@ import com.astar.system.domain.SysUserOnline;
 /**
  * 在线用户 服务层
  * 
- * @author astar
+ * @author
  */
 public interface ISysUserOnlineService
 {

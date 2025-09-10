@@ -21,7 +21,7 @@ import com.astar.quartz.domain.SysJob;
 /**
  * 定时任务工具类
  * 
- * @author astar
+ * @author
  *
  */
 public class ScheduleUtils

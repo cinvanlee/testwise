@@ -14,7 +14,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * Repeatable 过滤器
  * 
- * @author astar
+ * @author
  */
 public class RepeatableFilter implements Filter
 {

@@ -25,7 +25,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 通用http发送方法
  * 
- * @author astar
+ * @author
  */
 public class HttpUtils
 {

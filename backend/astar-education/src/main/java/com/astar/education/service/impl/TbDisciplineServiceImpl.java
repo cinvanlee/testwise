@@ -11,7 +11,7 @@ import org.springframework.stereotype.Service;
 /**
  * 学科管理Service业务层处理
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @Service

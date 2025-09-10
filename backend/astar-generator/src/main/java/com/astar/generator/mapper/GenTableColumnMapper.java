@@ -6,7 +6,7 @@ import com.astar.generator.domain.GenTableColumn;
 /**
  * 业务字段 数据层
  * 
- * @author astar
+ * @author
  */
 public interface GenTableColumnMapper
 {

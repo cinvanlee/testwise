@@ -3,7 +3,7 @@ package com.astar.common.utils;
 /**
  * 处理并记录日志文件
  * 
- * @author astar
+ * @author
  */
 public class LogUtils
 {

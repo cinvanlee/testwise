@@ -3,7 +3,7 @@ package com.astar.common.enums;
 /**
  * 限流类型
  *
- * @author astar
+ * @author
  */
 
 public enum LimitType

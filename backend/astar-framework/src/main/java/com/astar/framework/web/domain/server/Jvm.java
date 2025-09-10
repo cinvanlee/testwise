@@ -7,7 +7,7 @@ import com.astar.common.utils.DateUtils;
 /**
  * JVM相关信息
  * 
- * @author astar
+ * @author
  */
 public class Jvm
 {

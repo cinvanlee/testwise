@@ -8,7 +8,7 @@ import com.astar.system.domain.SysUserRole;
 /**
  * 角色业务层
  * 
- * @author astar
+ * @author
  */
 public interface ISysRoleService
 {

@@ -8,7 +8,7 @@ import com.baomidou.mybatisplus.extension.service.IService;
 /**
  * 试卷题目试题管理Service接口
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 public interface ITbExaminationPaperQuestionsService extends IService<ExaminationPaperQuestions> {

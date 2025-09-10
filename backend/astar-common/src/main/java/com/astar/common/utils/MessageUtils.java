@@ -7,7 +7,7 @@ import com.astar.common.utils.spring.SpringUtils;
 /**
  * 获取i18n资源文件
  * 
- * @author astar
+ * @author
  */
 public class MessageUtils
 {

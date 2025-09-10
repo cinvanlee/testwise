@@ -16,7 +16,7 @@ import com.astar.generator.domain.GenTableColumn;
 /**
  * 模板处理工具类
  * 
- * @author astar
+ * @author
  */
 public class VelocityUtils
 {

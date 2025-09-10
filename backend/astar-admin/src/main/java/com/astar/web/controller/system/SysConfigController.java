@@ -25,7 +25,7 @@ import com.astar.system.service.ISysConfigService;
 /**
  * 参数配置 信息操作处理
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/config")

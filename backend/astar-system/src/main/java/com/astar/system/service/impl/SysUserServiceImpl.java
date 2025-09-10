@@ -35,7 +35,7 @@ import com.astar.system.service.ISysUserService;
 /**
  * 用户 业务层处理
  * 
- * @author astar
+ * @author
  */
 @Service
 public class SysUserServiceImpl implements ISysUserService

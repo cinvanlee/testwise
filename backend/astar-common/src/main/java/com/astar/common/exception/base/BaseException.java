@@ -6,7 +6,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 基础异常
  * 
- * @author astar
+ * @author
  */
 public class BaseException extends RuntimeException
 {

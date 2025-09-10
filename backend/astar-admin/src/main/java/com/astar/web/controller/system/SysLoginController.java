@@ -20,7 +20,7 @@ import com.astar.system.service.ISysMenuService;
 /**
  * 登录验证
  * 
- * @author astar
+ * @author
  */
 @RestController
 public class SysLoginController

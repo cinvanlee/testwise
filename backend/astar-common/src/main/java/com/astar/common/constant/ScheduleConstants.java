@@ -3,7 +3,7 @@ package com.astar.common.constant;
 /**
  * 任务调度通用常量
  * 
- * @author astar
+ * @author
  */
 public class ScheduleConstants
 {

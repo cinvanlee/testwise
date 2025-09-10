@@ -3,7 +3,7 @@ package com.astar.common.enums;
 /**
  * 用户状态
  * 
- * @author astar
+ * @author
  */
 public enum UserStatus
 {

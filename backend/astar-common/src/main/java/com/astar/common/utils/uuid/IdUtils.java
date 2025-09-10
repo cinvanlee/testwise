@@ -3,7 +3,7 @@ package com.astar.common.utils.uuid;
 /**
  * ID生成器工具类
  * 
- * @author astar
+ * @author
  */
 public class IdUtils
 {

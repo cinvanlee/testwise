@@ -22,7 +22,7 @@ import com.astar.system.service.ISysOperLogService;
 /**
  * 操作日志记录
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/monitor/operlog")

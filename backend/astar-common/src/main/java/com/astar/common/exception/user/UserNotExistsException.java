@@ -3,7 +3,7 @@ package com.astar.common.exception.user;
 /**
  * 用户不存在异常类
  * 
- * @author astar
+ * @author
  */
 public class UserNotExistsException extends UserException
 {

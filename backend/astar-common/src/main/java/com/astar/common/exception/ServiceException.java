@@ -3,7 +3,7 @@ package com.astar.common.exception;
 /**
  * 业务异常
  * 
- * @author astar
+ * @author
  */
 public final class ServiceException extends RuntimeException
 {

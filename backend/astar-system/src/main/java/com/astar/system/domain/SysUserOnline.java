@@ -3,7 +3,7 @@ package com.astar.system.domain;
 /**
  * 当前在线会话
  * 
- * @author astar
+ * @author
  */
 public class SysUserOnline
 {

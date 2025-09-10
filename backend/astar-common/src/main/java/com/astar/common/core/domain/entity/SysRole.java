@@ -13,7 +13,7 @@ import com.astar.common.core.domain.BaseEntity;
 /**
  * 角色表 sys_role
  * 
- * @author astar
+ * @author
  */
 public class SysRole extends BaseEntity
 {

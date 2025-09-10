@@ -3,7 +3,7 @@ package com.astar.common.constant;
 /**
  * 缓存的key 常量
  * 
- * @author astar
+ * @author
  */
 public class CacheConstants
 {

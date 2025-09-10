@@ -24,7 +24,7 @@ import com.astar.system.domain.SysCache;
 /**
  * 缓存监控
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/monitor/cache")

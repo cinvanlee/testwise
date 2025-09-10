@@ -25,7 +25,7 @@ import com.astar.system.service.ISysDeptService;
 /**
  * 部门信息
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/dept")

@@ -10,7 +10,7 @@ import com.astar.framework.web.domain.Server;
 /**
  * 服务器监控
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/monitor/server")

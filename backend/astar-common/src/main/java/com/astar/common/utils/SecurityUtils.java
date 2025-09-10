@@ -16,7 +16,7 @@ import com.astar.common.exception.ServiceException;
 /**
  * 安全服务工具类
  * 
- * @author astar
+ * @author
  */
 public class SecurityUtils
 {

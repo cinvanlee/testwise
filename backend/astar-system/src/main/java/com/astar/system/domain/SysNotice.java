@@ -10,7 +10,7 @@ import com.astar.common.xss.Xss;
 /**
  * 通知公告表 sys_notice
  * 
- * @author astar
+ * @author
  */
 public class SysNotice extends BaseEntity
 {

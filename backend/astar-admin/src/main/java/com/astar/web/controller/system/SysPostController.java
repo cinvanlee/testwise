@@ -25,7 +25,7 @@ import com.astar.system.service.ISysPostService;
 /**
  * 岗位信息操作处理
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/post")

@@ -9,7 +9,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 获取IP方法
  * 
- * @author astar
+ * @author
  */
 public class IpUtils
 {

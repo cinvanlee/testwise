@@ -9,7 +9,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 首页
  *
- * @author astar
+ * @author
  */
 @RestController
 public class SysIndexController

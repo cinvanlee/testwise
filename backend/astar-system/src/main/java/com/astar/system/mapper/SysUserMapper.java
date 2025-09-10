@@ -9,7 +9,7 @@ import com.astar.common.core.domain.entity.SysUser;
 /**
  * 用户表 数据层
  * 
- * @author astar
+ * @author
  */
 public interface SysUserMapper
 {

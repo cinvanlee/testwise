@@ -15,7 +15,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * Filter配置
  *
- * @author astar
+ * @author
  */
 @Configuration
 public class FilterConfig

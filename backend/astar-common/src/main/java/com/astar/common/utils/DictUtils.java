@@ -11,7 +11,7 @@ import com.astar.common.utils.spring.SpringUtils;
 /**
  * 字典工具类
  * 
- * @author astar
+ * @author
  */
 public class DictUtils
 {

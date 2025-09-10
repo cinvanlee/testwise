@@ -20,7 +20,7 @@ import com.astar.system.service.ISysConfigService;
 /**
  * 参数配置 服务层实现
  * 
- * @author astar
+ * @author
  */
 @Service
 public class SysConfigServiceImpl implements ISysConfigService

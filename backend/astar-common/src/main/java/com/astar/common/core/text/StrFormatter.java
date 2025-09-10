@@ -5,7 +5,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 字符串格式化
  * 
- * @author astar
+ * @author
  */
 public class StrFormatter
 {

@@ -6,7 +6,7 @@ import com.astar.system.domain.SysPost;
 /**
  * 岗位信息 数据层
  * 
- * @author astar
+ * @author
  */
 public interface SysPostMapper
 {

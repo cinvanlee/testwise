@@ -5,7 +5,7 @@ import com.astar.common.utils.Arith;
 /**
  * 內存相关信息
  * 
- * @author astar
+ * @author
  */
 public class Mem
 {

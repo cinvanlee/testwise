@@ -16,7 +16,7 @@ import com.astar.common.core.domain.BaseEntity;
 /**
  * 试卷任务管理对象 tb_paper_task
  * 
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @Data

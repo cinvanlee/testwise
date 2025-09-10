@@ -3,7 +3,7 @@ package com.astar.common.exception.file;
 /**
  * 文件名大小限制异常类
  * 
- * @author astar
+ * @author
  */
 public class FileSizeLimitExceededException extends FileException
 {

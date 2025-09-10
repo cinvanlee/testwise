@@ -36,7 +36,7 @@ import com.astar.common.core.page.TableDataInfo;
 /**
  * 试卷任务管理Controller
  *
- * @author astar
+ * @author
  * @date 2024-07-30
  */
 @RestController

@@ -24,7 +24,7 @@ import com.astar.framework.config.ServerConfig;
 /**
  * 通用请求处理
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/common")

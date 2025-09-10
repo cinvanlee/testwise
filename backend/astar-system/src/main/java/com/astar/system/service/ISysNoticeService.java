@@ -6,7 +6,7 @@ import com.astar.system.domain.SysNotice;
 /**
  * 公告 服务层
  * 
- * @author astar
+ * @author
  */
 public interface ISysNoticeService
 {

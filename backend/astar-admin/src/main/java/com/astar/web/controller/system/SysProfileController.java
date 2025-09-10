@@ -29,7 +29,7 @@ import java.io.IOException;
 /**
  * 个人信息 业务处理
  * 
- * @author astar
+ * @author
  */
 @RestController
 @RequestMapping("/system/user/profile")

@@ -14,7 +14,7 @@ import com.astar.system.service.ISysRoleService;
 /**
  * 用户权限处理
  * 
- * @author astar
+ * @author
  */
 @Component
 public class SysPermissionService

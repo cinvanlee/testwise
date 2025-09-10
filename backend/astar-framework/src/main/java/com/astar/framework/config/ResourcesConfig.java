@@ -20,7 +20,7 @@ import com.astar.framework.interceptor.RepeatSubmitInterceptor;
 /**
  * 通用配置
  * 
- * @author astar
+ * @author
  */
 @Configuration
 public class ResourcesConfig implements WebMvcConfigurer

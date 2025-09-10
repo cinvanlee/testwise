@@ -5,7 +5,7 @@ import com.astar.common.utils.StringUtils;
 /**
  * 缓存信息
  * 
- * @author astar
+ * @author
  */
 public class SysCache
 {

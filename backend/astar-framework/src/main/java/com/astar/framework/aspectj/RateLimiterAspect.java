@@ -22,7 +22,7 @@ import com.astar.common.utils.ip.IpUtils;
 /**
  * 限流处理
  *
- * @author astar
+ * @author
  */
 @Aspect
 @Component

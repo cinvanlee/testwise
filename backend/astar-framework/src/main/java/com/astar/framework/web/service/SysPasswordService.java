@@ -16,7 +16,7 @@ import com.astar.framework.security.context.AuthenticationContextHolder;
 /**
  * 登录密码方法
  * 
- * @author astar
+ * @author
  */
 @Component
 public class SysPasswordService

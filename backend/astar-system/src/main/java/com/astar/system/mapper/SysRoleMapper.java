@@ -7,7 +7,7 @@ import org.apache.ibatis.annotations.Param;
 /**
  * 角色表 数据层
  * 
- * @author astar
+ * @author
  */
 public interface SysRoleMapper
 {

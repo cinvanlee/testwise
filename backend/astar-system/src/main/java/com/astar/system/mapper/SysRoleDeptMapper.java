@@ -6,7 +6,7 @@ import com.astar.system.domain.SysRoleDept;
 /**
  * 角色与部门关联表 数据层
  * 
- * @author astar
+ * @author
  */
 public interface SysRoleDeptMapper
 {
